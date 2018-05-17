@@ -1,0 +1,14 @@
+/home/gza/Dev/testapp/TestApp.ConsoleApp/bin/Debug/netcoreapp2.0/TestApp.ConsoleApp.deps.json
+/home/gza/Dev/testapp/TestApp.ConsoleApp/bin/Debug/netcoreapp2.0/TestApp.ConsoleApp.runtimeconfig.json
+/home/gza/Dev/testapp/TestApp.ConsoleApp/bin/Debug/netcoreapp2.0/TestApp.ConsoleApp.runtimeconfig.dev.json
+/home/gza/Dev/testapp/TestApp.ConsoleApp/bin/Debug/netcoreapp2.0/TestApp.ConsoleApp.dll
+/home/gza/Dev/testapp/TestApp.ConsoleApp/bin/Debug/netcoreapp2.0/TestApp.ConsoleApp.pdb
+/home/gza/Dev/testapp/TestApp.ConsoleApp/bin/Debug/netcoreapp2.0/TestApp.Logger.dll
+/home/gza/Dev/testapp/TestApp.ConsoleApp/bin/Debug/netcoreapp2.0/TestApp.Logger.pdb
+/home/gza/Dev/testapp/TestApp.ConsoleApp/obj/Debug/netcoreapp2.0/TestApp.ConsoleApp.csprojAssemblyReference.cache
+/home/gza/Dev/testapp/TestApp.ConsoleApp/obj/Debug/netcoreapp2.0/TestApp.ConsoleApp.csproj.CoreCompileInputs.cache
+/home/gza/Dev/testapp/TestApp.ConsoleApp/obj/Debug/netcoreapp2.0/TestApp.ConsoleApp.AssemblyInfoInputs.cache
+/home/gza/Dev/testapp/TestApp.ConsoleApp/obj/Debug/netcoreapp2.0/TestApp.ConsoleApp.AssemblyInfo.cs
+/home/gza/Dev/testapp/TestApp.ConsoleApp/obj/Debug/netcoreapp2.0/TestApp.ConsoleApp.csproj.CopyComplete
+/home/gza/Dev/testapp/TestApp.ConsoleApp/obj/Debug/netcoreapp2.0/TestApp.ConsoleApp.dll
+/home/gza/Dev/testapp/TestApp.ConsoleApp/obj/Debug/netcoreapp2.0/TestApp.ConsoleApp.pdb

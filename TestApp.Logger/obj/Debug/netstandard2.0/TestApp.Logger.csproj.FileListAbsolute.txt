@@ -1,0 +1,9 @@
+/home/gza/Dev/testapp/TestApp.Logger/bin/Debug/netstandard2.0/TestApp.Logger.deps.json
+/home/gza/Dev/testapp/TestApp.Logger/bin/Debug/netstandard2.0/TestApp.Logger.dll
+/home/gza/Dev/testapp/TestApp.Logger/bin/Debug/netstandard2.0/TestApp.Logger.pdb
+/home/gza/Dev/testapp/TestApp.Logger/obj/Debug/netstandard2.0/TestApp.Logger.csprojAssemblyReference.cache
+/home/gza/Dev/testapp/TestApp.Logger/obj/Debug/netstandard2.0/TestApp.Logger.csproj.CoreCompileInputs.cache
+/home/gza/Dev/testapp/TestApp.Logger/obj/Debug/netstandard2.0/TestApp.Logger.AssemblyInfoInputs.cache
+/home/gza/Dev/testapp/TestApp.Logger/obj/Debug/netstandard2.0/TestApp.Logger.AssemblyInfo.cs
+/home/gza/Dev/testapp/TestApp.Logger/obj/Debug/netstandard2.0/TestApp.Logger.dll
+/home/gza/Dev/testapp/TestApp.Logger/obj/Debug/netstandard2.0/TestApp.Logger.pdb
